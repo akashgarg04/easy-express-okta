@@ -1,7 +1,7 @@
 # basic-okta-express-sample
 
 This is a very basic website built with Node.js and Express.js that uses
-[Okta](https://developer.okta.com/) + OpenID Connect for authentication.
+Okta and OpenID Connect for authentication.
 
 
 ## Installation
@@ -9,8 +9,8 @@ This is a very basic website built with Node.js and Express.js that uses
 To install this sample application, run the following commands:
 
 ```console
-$ git clone https://github.com/oktadeveloper/basic-okta-express-sample.git
-$ cd basic-okta-express-sample
+$ git clone https://github.com/akashgarg04/easy-express-okta.git
+$ cd easy-express-okta
 $ npm install
 ```
 

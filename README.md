@@ -1,4 +1,4 @@
-# basic-okta-express-sample
+# easy-express-okta
 
 This is a very basic website built with Node.js and Express.js that uses
 Okta and OpenID Connect for authentication.
